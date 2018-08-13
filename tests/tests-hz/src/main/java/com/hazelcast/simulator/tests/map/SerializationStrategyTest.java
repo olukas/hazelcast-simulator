@@ -48,7 +48,8 @@ public class SerializationStrategyTest extends HazelcastTest {
         PORTABLE,
         SERIALIZABLE,
         DATA_SERIALIZABLE,
-        IDENTIFIED_DATA_SERIALIZABLE
+        IDENTIFIED_DATA_SERIALIZABLE,
+        JSON
     }
 
     // properties
